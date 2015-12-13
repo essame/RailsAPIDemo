@@ -1,0 +1,1 @@
+RailsAPIDemo::Application.config.secret_token = '3f2039a3417398559d3bef7f00e599babb8dea47dbc1af4c09e4dd6ed8a0afaf19fb8b872ac4e99c3bf704f62f7a48e3e1d9978c042fb256eda7633923de3939'

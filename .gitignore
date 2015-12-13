@@ -1,0 +1,5 @@
+/.bundle
+/bin
+*.log
+/tmp
+.DS_Store
